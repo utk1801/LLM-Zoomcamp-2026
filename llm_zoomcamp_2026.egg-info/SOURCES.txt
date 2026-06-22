@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+llm_zoomcamp_2026.egg-info/PKG-INFO
+llm_zoomcamp_2026.egg-info/SOURCES.txt
+llm_zoomcamp_2026.egg-info/dependency_links.txt
+llm_zoomcamp_2026.egg-info/requires.txt
+llm_zoomcamp_2026.egg-info/top_level.txt

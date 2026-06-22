@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: llm-zoomcamp-2026
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: gitsource>=0.0.5
+Requires-Dist: jupyter>=1.1.1
+Requires-Dist: minsearch>=0.1.1
+Requires-Dist: openai>=2.43.0
+Requires-Dist: python-dotenv>=1.2.2
+Requires-Dist: requests>=2.34.2
+Requires-Dist: sentence-transformers>=5.6.0
+Requires-Dist: sqlitesearch>=0.1.1
+Requires-Dist: toyaikit>=0.0.11
+
+# LLM-Zoomcamp-2026
+https://datatalks.club/docs/courses/llm-zoomcamp/
+
+
+✅ Build a RAG system from scratch in plain Python
+✅ Index and search documents with minsearch
+✅ Chunk long documents for better retrieval
+✅ Turn the RAG pipeline into an agent with function calling
